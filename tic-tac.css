@@ -1,0 +1,35 @@
+.table {
+    height: 500px;
+    width: 500px;
+    margin-left: 10%;
+    margin-top: 10%;
+    text-align: center;
+
+    /* background-color: black; */
+}
+.north-west {
+    height: 100px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.south-west {
+    height: 100px;
+    border-right: 1px solid black;
+}
+
+.middle {
+    height: 100px;
+    border-bottom: 1px solid black;
+}
+
+.north-east {
+    height: 100px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.south-east{
+    height: 100px;
+    border-left: 1px solid black;
+}
